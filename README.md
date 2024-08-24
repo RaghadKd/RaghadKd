@@ -15,7 +15,7 @@
 
 
 
-### 👨🏻‍💻 &nbsp;About Me
+### 🙋‍♀️ &nbsp;About Me
 
 - 💡 I'm interested in **developing software solutions** and **learning new technologies**.
   
