@@ -19,7 +19,7 @@
 
 - 💡 I'm interested in **developing software solutions** and **learning new technologies**.
   
-- 🎓 I am currently studying **Computer Science and Information** at Princess Nourah bint Abdulrahman University.
+- 🎓 Senior **Computer Science and Information** student at Princess Nourah bint Abdulrahman University.
 
 - 🌱 I’m currently learning **Python**
 
