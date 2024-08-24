@@ -17,8 +17,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 💡 I like to explore new technologies and develop software solutions and quick hacks.\
-- 🎓 I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
+- 💡 I'm interested in **developing software solutions** and **learning new technologies**.
+  
+- 🎓 I am currently studying **Computer Science and Information** at Princess Nourah bint Abdulrahman University.
 
 - 🌱 I’m currently learning **Python**
 
