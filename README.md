@@ -9,10 +9,6 @@
 
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
-\
-### 👨🏻‍💻 &nbsp;About Me
-🎓 &nbsp;I am currently studying Computer Science and Information at Princess Nourah bint Abdulrahman University.\
-💡 &nbsp;Interested in developing software solutions and learning new technologies.\
 
 
 - 🌱 I’m currently learning **Python**
