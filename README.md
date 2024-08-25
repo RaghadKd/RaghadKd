@@ -7,8 +7,7 @@
 </p>
 <br>
 
-
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
 
@@ -31,12 +30,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
- 
  <div align="left"  class="icons-social" style="left": 10px;">
         <a style="left": 10px;"  target="_blank" href="https://www.linkedin.com/in/raghad-aldreweesh/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
