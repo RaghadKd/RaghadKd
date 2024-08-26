@@ -16,17 +16,17 @@
 
 ### 🙋‍♀️ &nbsp;About Me
 
-- 🎓 Senior **Computer Science and Information** student at Princess Nourah bint Abdulrahman University.
+- 🎓 Senior `Computer Science and Information` student at Princess Nourah bint Abdulrahman University.
 
-- 💡 I'm interested in **developing software solutions** and **learning new technologies**.
+- 💡 I'm interested in `developing software solutions` and `learning new technologies`.
   
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning `Python`
 
-- 🤝 I’m currently open for a new **job, opportunity**
+- 🤝 I’m currently open for a new `job, opportunity`
 
-- 📫 How to reach me **raghadaldreweesh@gmail.com**
+- 📫 How to reach me `raghadaldreweesh@gmail.com`
 
-- 🤓 Always **learning new things**
+- 🤓 Always `learning new things`
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,18 +49,6 @@
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=mysql"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,terraform,jenkins,githubactions,gitlarun"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=selenium,jest,pytest,phpunit"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
